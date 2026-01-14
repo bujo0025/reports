@@ -1,0 +1,5 @@
+This is a demo for web dev 4
+
+currently we are learning how to work in the terminal
+
+this is very similar to using something like linux, using a CLI instead of a GUI
